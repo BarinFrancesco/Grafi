@@ -1,0 +1,15 @@
+C:\Users\12999355\Desktop\xxx\Grafi\Grafo\Grafo\bin\Debug\net7.0\Grafo.exe
+C:\Users\12999355\Desktop\xxx\Grafi\Grafo\Grafo\bin\Debug\net7.0\Grafo.deps.json
+C:\Users\12999355\Desktop\xxx\Grafi\Grafo\Grafo\bin\Debug\net7.0\Grafo.runtimeconfig.json
+C:\Users\12999355\Desktop\xxx\Grafi\Grafo\Grafo\bin\Debug\net7.0\Grafo.dll
+C:\Users\12999355\Desktop\xxx\Grafi\Grafo\Grafo\bin\Debug\net7.0\Grafo.pdb
+C:\Users\12999355\Desktop\xxx\Grafi\Grafo\Grafo\obj\Debug\net7.0\Grafo.csproj.AssemblyReference.cache
+C:\Users\12999355\Desktop\xxx\Grafi\Grafo\Grafo\obj\Debug\net7.0\Grafo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12999355\Desktop\xxx\Grafi\Grafo\Grafo\obj\Debug\net7.0\Grafo.AssemblyInfoInputs.cache
+C:\Users\12999355\Desktop\xxx\Grafi\Grafo\Grafo\obj\Debug\net7.0\Grafo.AssemblyInfo.cs
+C:\Users\12999355\Desktop\xxx\Grafi\Grafo\Grafo\obj\Debug\net7.0\Grafo.csproj.CoreCompileInputs.cache
+C:\Users\12999355\Desktop\xxx\Grafi\Grafo\Grafo\obj\Debug\net7.0\Grafo.dll
+C:\Users\12999355\Desktop\xxx\Grafi\Grafo\Grafo\obj\Debug\net7.0\refint\Grafo.dll
+C:\Users\12999355\Desktop\xxx\Grafi\Grafo\Grafo\obj\Debug\net7.0\Grafo.pdb
+C:\Users\12999355\Desktop\xxx\Grafi\Grafo\Grafo\obj\Debug\net7.0\Grafo.genruntimeconfig.cache
+C:\Users\12999355\Desktop\xxx\Grafi\Grafo\Grafo\obj\Debug\net7.0\ref\Grafo.dll
